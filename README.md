@@ -2,7 +2,7 @@
 
 ## Config
 
-- copy file `.env` then copy to `.env.testing`
+- copy file `.env` then rename to `.env.testing`
 
 - change `DB_DATABASE` to your database for testing in file `.env.testing`:
 
